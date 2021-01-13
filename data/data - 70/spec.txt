@@ -1,0 +1,6 @@
+NameofNetwork
+4
+784
+16
+16
+10
