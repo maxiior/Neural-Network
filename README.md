@@ -32,9 +32,10 @@ Advanced - sample images that are material for learning a neural network are loa
 1. Click LEARN.
 2. Choose one of the learning modes.
 3. Enter the percentage value of the network effectiveness to which it should be trained. After the selected level is reached, training will end.
-4. Click START LEARNINGN button.
-5. Select the "examples" folder. After training will start, you will receive information about your Neural Network's learning level with after each backpropagation cycle.
-6. You can save your trained network by clicking the SAVE button. You will have to select the folder where you want to save your Neural Network.
+4. You can use the Auto-save option, so that the program will regularly save the best trained Neural Network variant during the learning process.
+5. Click START LEARNINGN button.
+6. Select the "examples" folder. After training will start, you will receive information about your Neural Network's learning level with after each backpropagation cycle.
+7. You can save your trained network by clicking the SAVE button. You will have to select the folder where you want to save your Neural Network.
 
 #### Testing your Neural Network
 1. If you want to test each example separately:
