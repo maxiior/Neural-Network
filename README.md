@@ -16,19 +16,19 @@ Advanced - sample images that are material for learning a neural network are loa
 
 ### Instruction
 
-##### Creating a Neural Network
+#### Creating a Neural Network
 1. Click CREATE NEW button.
 2. Enter a network name.
 3. Enter a number of you Neural Network leyers.
 4. Enter the number of neurons in each layer, separating them with a space.
 5. Click OK.
 
-##### Loading Neural Network
+#### Loading Neural Network
 1. Click LOAD.
 2. Choose one of the floders in "data" folder. (They contain sample Neural Networks with the effectiveness expressed as a percentage in the name of the folder)
 3. Click OK.
 
-##### Teaching your neural network
+#### Teaching your neural network
 1. Click LEARN.
 2. Choose one of the learning modes.
 3. Enter the percentage value of the network effectiveness to which it should be trained. After the selected level is reached, training will end.
@@ -36,7 +36,7 @@ Advanced - sample images that are material for learning a neural network are loa
 5. Select the "examples" folder. After training will start, you will receive information about your Neural Network's learning level with after each backpropagation cycle.
 6. You can save your trained network by clicking the SAVE button. You will have to select the folder where you want to save your Neural Network.
 
-##### Testing your Neural Network
+#### Testing your Neural Network
 1. If you want to test each example separately:
 a) Click RECOGNIZE.
 b) Click Load the example.
